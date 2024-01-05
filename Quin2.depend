@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1702222430 source:c:\users\gael\documents\quin2\main.cpp
+	<time.h>
+	<math.h>
+	"rlutil.h"
+	"pUno.h"
+
+1571584339 c:\users\gael\documents\quin2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1702292636 c:\users\gael\documents\quin2\puno.h
+	"pDos.h"
+
+1702292503 c:\users\gael\documents\quin2\pdos.h
+	"pTres.h"
+
+1702290066 c:\users\gael\documents\quin2\ptres.h
+
+1702219249 c:\users\gael\documents\quin2\pcuatro.h
+
